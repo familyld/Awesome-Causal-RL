@@ -60,7 +60,7 @@ format:
   - Chaochao Lu
   - Causal Science and Causal AI Reading Group, Swarma Campus, 29 Nov 2020
 - [Towards Causal Representation Learning](https://www.youtube.com/watch?v=rKZJ0TJWvTk) [[Slides](https://www.bradyneal.com/slides/Yoshua_Bengio_Guest_Talk_Towards_Causal_Representation_Learning.pdf)]
-  - Youshua Bengio
+  - Yoshua Bengio
   - Mila Causality Inference Lectures, 30 Nov 2020
 - [A Survey on Causal Reinforcement Learning](https://pattern.swarma.org/study_group_issue/414) [[Paper](https://arxiv.org/pdf/2302.05209.pdf)]
   - Yan Zeng
@@ -257,10 +257,11 @@ format:
 
 ## Others
 
-- [Blog] [Introduction to Causal RL by Chaochao Lu](https://causallu.com/2018/12/31/introduction-to-causalrl/): a blog post about how causal reinforcement learning can improve healthcare and medicine by using causal inference and reinforcement learning to learn from fewer data, adapt to changing environments, and handle confounding factors.
+
 - [Project] [Causal-MBRL](https://github.com/polixir/causal-mbrl): a toolbox for facilitating the development of Causal Model-based Reinforcement learning algorithms.
+- [Blog] [Introduction to Causal RL by Chaochao Lu](https://causallu.com/2018/12/31/introduction-to-causalrl/): a blog post about how causal reinforcement learning can improve healthcare and medicine by using causal reinforcement learning to learn from fewer data, adapt to changing environments, and handle confounding factors.
 - [Blog] [Causal Reinforcement Learning: A Primer](https://stjohngrimbly.com/causal-reinforcement-learning/): A blog series that introduces and explains Elias Bareinboim’s tutorial on Causal RL at ICML 2020.
-- [Blog] [My bet on causal reinforcement learning](https://towardsdatascience.com/my-bet-on-causal-reinforcement-learning-d94fc9b37466): 
+- [Blog] [因果科学 x Agents | TMLR (2023) 因果强化学习最新综述](https://zhuanlan.zhihu.com/p/668830312): A Chinese blog post about our survey on causal reinforcement learning.
 
 
 ## Contributing
@@ -271,3 +272,6 @@ If you are interested in contributing, please refer to [HERE](CONTRIBUTING.md) f
 ## License
 
 This project is released under the Apache 2.0 license.
+
+
+
