@@ -257,11 +257,10 @@ format:
 
 ## Others
 
-
+- [Blog] [因果科学 x Agents | TMLR (2023) 因果强化学习最新综述](https://zhuanlan.zhihu.com/p/668830312): A Chinese blog post about our survey on causal reinforcement learning, and its English version is HERE: [Causality x Agents: TMLR (2023) The Latest Survey on Causal Reinforcement Learning](https://2wildkids.com/posts/2023/12/CausalRL/). Eager to explore the field quickly? This blog is for you!
 - [Project] [Causal-MBRL](https://github.com/polixir/causal-mbrl): a toolbox for facilitating the development of Causal Model-based Reinforcement learning algorithms.
 - [Blog] [Introduction to Causal RL by Chaochao Lu](https://causallu.com/2018/12/31/introduction-to-causalrl/): a blog post about how causal reinforcement learning can improve healthcare and medicine by using causal reinforcement learning to learn from fewer data, adapt to changing environments, and handle confounding factors.
-- [Blog] [Causal Reinforcement Learning: A Primer](https://stjohngrimbly.com/causal-reinforcement-learning/): A blog series that introduces and explains Elias Bareinboim’s tutorial on Causal RL at ICML 2020.
-- [Blog] [因果科学 x Agents | TMLR (2023) 因果强化学习最新综述](https://zhuanlan.zhihu.com/p/668830312): A Chinese blog post about our survey on causal reinforcement learning.
+- [Blog] [Causal Reinforcement Learning: A Primer](https://stjohngrimbly.com/causal-reinforcement-learning/): A blog series that introduces and explains Elias Bareinboim’s tutorial on Causal RL at ICML 2020.  
 
 
 ## Contributing
