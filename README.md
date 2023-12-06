@@ -85,6 +85,9 @@ format:
   - Zhihong Deng, Jing Jiang, Guodong Long, Chengqi Zhang
 - 【Survey】[A Survey on Causal Reinforcement Learning](https://arxiv.org/abs/2302.05209)
   - Yan Zeng, Ruichu Cai, Fuchun Sun, Libo Huang, Zhifeng Hao
+- [Interpretable Reward Redistribution in Reinforcement Learning: A Causal Approach](https://openreview.net/forum?id=w7TyuWhGZP)
+  - Yudi Zhang, Yali Du, Biwei Huang, Ziyan Wang, Jun Wang, Meng Fang, Mykola Pechenizkiy
+  - Code: [Github Repository](https://github.com/ReedZyd/GenerativeReturnDecomposition)
 - [False Correlation Reduction for Offline Reinforcement Learning](https://ieeexplore.ieee.org/document/10301548) [[Blog Post](https://familyld.github.io/posts/2023/11/SCORE/)]
   - Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Tianyi Zhou, Zhaoran Wang, Jing Jiang
   - Code: [Github Repository](https://github.com/familyld/SCORE)
