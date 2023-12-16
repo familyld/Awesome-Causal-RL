@@ -91,6 +91,9 @@ format:
 - [False Correlation Reduction for Offline Reinforcement Learning](https://ieeexplore.ieee.org/document/10301548) [[Blog Post](https://familyld.github.io/posts/2023/11/SCORE/)]
   - Zhihong Deng, Zuyue Fu, Lingxiao Wang, Zhuoran Yang, Chenjia Bai, Tianyi Zhou, Zhaoran Wang, Jing Jiang
   - Code: [Github Repository](https://github.com/familyld/SCORE)
+- [CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System](https://dl.acm.org/doi/abs/10.1145/3594871)
+  - Chongming Gao, Shiqi Wang, Shijun Li, Jiawei Chen, Xiangnan He, Wenqiang Lei, Biao Li, Yuan Zhang, Peng Jiang
+  - Code: [Github Repository](https://github.com/chongminggao/CIRS-codes)
 - [Learning World Models with Identifiable Factorization](https://openreview.net/forum?id=6JJq5TW9Mc)
   - Yu-Ren Liu, Biwei Huang, Zhengmao Zhu, Honglong Tian, Mingming Gong, Yang Yu, Kun Zhang
   - Code: [Github Repository](https://github.com/AlexLiuyuren/Factor)
