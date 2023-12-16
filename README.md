@@ -94,6 +94,8 @@ format:
 - [Learning World Models with Identifiable Factorization](https://openreview.net/forum?id=6JJq5TW9Mc)
   - Yu-Ren Liu, Biwei Huang, Zhengmao Zhu, Honglong Tian, Mingming Gong, Yang Yu, Kun Zhang
   - Code: [Github Repository](https://github.com/AlexLiuyuren/Factor)
+- [Can Active Sampling Reduce Causal Confusion in Offline Reinforcement Learning?](https://proceedings.mlr.press/v213/gupta23a.html)
+  - Gunshi Gupta, Tim G. J. Rudner, Rowan Thomas McAllister, Adrien Gaidon, Yarin Gal
 - [Using Confounded Data in Latent Model-Based Reinforcement Learning](https://openreview.net/forum?id=nFWRuJXPkU)
   - Maxime Gasse, Damien Grasset, Guillaume Gaudron, Pierre-Yves Oudeyer
 - [Delphic Offline Reinforcement Learning under Nonidentifiable Hidden Confounding](https://openreview.net/pdf?id=Jz9I_Mif7mm)
